@@ -1,0 +1,3 @@
+pytest==7.3.0
+selene==2.0.0b17
+allure-pytest==2.13.1
