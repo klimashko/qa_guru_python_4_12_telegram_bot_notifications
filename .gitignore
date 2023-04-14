@@ -2,6 +2,7 @@
 .env
 .idea/
 allure-results
+commands.txt
 __pycache__/
 *.py[cod]
 *$py.class

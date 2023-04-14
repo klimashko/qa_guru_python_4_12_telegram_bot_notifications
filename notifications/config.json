@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "Allure report notifications tg bot",
+    "environment": "some env",
+    "comment": "some comment",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6052379310:AAFMAuwUkABq9XUGgLNxzLIRTizxRE3Ph2g",
+    "chat": "-949991517",
+    "replyTo": ""
+  }
+}

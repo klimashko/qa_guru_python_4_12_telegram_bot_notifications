@@ -1,0 +1,12 @@
+curl -X POST \
+     -H 'Content-Type: application/json' \
+     -d '{"chat_id": "-949991517", "text": "This is a test from curl", "disable_notification": true}' \
+     https://api.telegram.org/bot6052379310:AAFMAuwUkABq9XUGgLNxzLIRTizxRE3Ph2g/sendMessage
+
+curl -X POST -H 'Content-Type: application/json' -d '{"chat_id": "-949991517", "text": "This is a test from curl", "disable_notification": true}' https://api.telegram.org/bot6052379310:AAFMAuwUkABq9XUGgLNxzLIRTizxRE3Ph2g/sendMessage
+
+6052379310:AAFMAuwUkABq9XUGgLNxzLIRTizxRE3Ph2g
+
+-949991517
+
+https://api.telegram.org/bot6052379310:AAFMAuwUkABq9XUGgLNxzLIRTizxRE3Ph2g/getUpdates
